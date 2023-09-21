@@ -4,6 +4,6 @@ In order to use RUM-Bot for www.rumble.com, you will need to download and instal
 
 https://nodejs.org/en
 
-Install Node to your PC, then once you are ready and have your information populated in the bot, simply press start. Please also note that you will need to shut down the terminal screne first. If not it might produce an error which we will hopefully fix later.
+Install Node to your PC, then once you are ready and have your information populated in the bot, simply press start. Please also note that at the end of your stream, you will need to shut down the terminal box first. If not it might produce an error which we will hopefully fix later.
 
 Please do list any issues in the appropriate area and we will do the best we can to address any concerns or issues you have. Thanks for using our humble little bot!
