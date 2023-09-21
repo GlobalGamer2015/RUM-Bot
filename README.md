@@ -1,1 +1,1 @@
-# RUM-Bot
+Thank you for using RUM-Bot! We truly appreciate your trust and support. If you encounter any issues or have feedback, please don't hesitate to reach out to us directly or post on our GitHub page. For the purpose of improving user experience and resolving bugs, we do collect some user information, but rest assured that it is non-identifiable and solely for diagnostic purposes. Your privacy and trust are paramount to us, and we're always here to assist you.
