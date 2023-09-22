@@ -7,3 +7,5 @@ https://nodejs.org/en
 Install Node to your PC, then once you are ready and have your information populated in the bot, simply press start. Please also note that at the end of your stream, you will need to shut down the terminal box first. If not it might produce an error which we will hopefully fix later.
 
 Please do list any issues in the appropriate area and we will do the best we can to address any concerns or issues you have. Thanks for using our humble little bot!
+
+Watch the tutorial here: https://rumble.com/v3jq9tu-rum-bot-how-to-add-live-stream-alerts-on-rumble.html
