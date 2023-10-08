@@ -9,3 +9,4 @@ Install Node to your PC, then once you are ready and have your information popul
 Please do list any issues in the appropriate area and we will do the best we can to address any concerns or issues you have. Thanks for using our humble little bot!
 
 Watch the tutorial here: [https://rumble.com/v3m4d7g-rum-bot-2.0-how-to-add-live-alerts-to-live-streams.html](https://rumble.com/v3m4d7g-rum-bot-2.0-how-to-add-live-alerts-to-live-streams.html)
+Or Read a tutorial here: https://www.dropbox.com/scl/fi/33jty9bl8ciy67o3peiin/How-to-Setup-RUM.pdf?rlkey=kmycqpnboan0wj6e5fsb0k3ql&dl=0
