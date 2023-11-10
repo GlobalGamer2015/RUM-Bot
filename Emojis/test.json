@@ -1,3 +1,6 @@
-{
-  ":r+rumblecandy:": "<img class='chat-history--emote' src='https://sp.rmbl.ws/z12/F/3/4/s/F34si.aaa.png' height='24' alt=':r+rumblecandy:' title=':r+rumblecandy:'>"
-}
+[
+    {
+        "name": ":r+rumblecandy:",
+        "value": "<img class='chat-history--emote' src='https://sp.rmbl.ws/z12/F/3/4/s/F34si.aaa.png' height='24' alt=':r+rumblecandy:' title=':r+rumblecandy:'>"
+    }
+]
